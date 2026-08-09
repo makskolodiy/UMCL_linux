@@ -39,3 +39,4 @@ Minecraft является товарным знаком Mojang Studios.
 ---
 
 Спасибо всем, кто поддерживает развитие проекта! 🚀
+from https://t.me/UMCL_updates
