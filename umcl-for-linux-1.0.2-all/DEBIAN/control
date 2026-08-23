@@ -1,0 +1,7 @@
+Package: UMCL-for-linux
+Version: 1.0.2
+Architecture: all
+Maintainer: github-makskolodiy
+Description: minecraft_launcher_for_linux
+Priority: optional
+Section: utils
